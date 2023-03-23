@@ -15,7 +15,7 @@ NI Actor Framework
 https://forums.ni.com/t5/Actor-Framework/ct-p/7001
 
 
-NI Statechart Module and Actor Frework
+NI Statechart Module and Actor Framework
 
 https://www.vipm.io/package/national_instruments_lib_labview_statechart_module/
 
